@@ -1,4 +1,4 @@
-# Hi, I'm Raul Pinheiro Rocha 👨💻
+# Hi, I'm Raul Pinheiro Rocha 💻
 
 **Data Scientist | BI & Analytics Specialist**  
 *Turning raw data into actionable insights*
@@ -30,7 +30,7 @@
 ## 🛠️ **Technical Stack**
 
 ### **Core Tools**
-![Python](https://img.shields.io/badge/Python-Advanced-yellow?logo=python)
+![Python](https://img.shields.io/badge/Python-Intermediate-yellow?logo=python)
 ![SQL](https://img.shields.io/badge/SQL-Advanced-blue?logo=postgresql)
 ![Looker Studio](https://img.shields.io/badge/Looker_Studio-Dashboards-9cf?logo=google)
 ![AWS](https://img.shields.io/badge/AWS-Athena-FF9900?logo=amazonaws)
