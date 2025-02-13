@@ -1,60 +1,69 @@
-# Olá, sou Raul Pinheiro Rocha 👋
+# Hi, I'm Raul Pinheiro Rocha 👨💻
 
-Bem-vindo ao meu perfil no GitHub! Aqui você encontrará projetos relacionados à ciência de dados, análise de dados, finanças e marketing digital. Tenho experiência e interesses variados, que combinam tecnologia, dados e negócios.
+**Data Scientist | BI & Analytics Specialist**  
+*Turning raw data into actionable insights*
 
----
-
-## Sobre Mim
-
-- 🎓 **Formação:**  
-  Pós-graduando em **Ciência de Dados e Analytics**, com um MBA focado na integração entre **Finanças e Marketing Digital**. Minha formação acadêmica inclui também conhecimentos sólidos em linguagens como Python, SQL, R, e Spark.
-
-- 💼 **Atuação Profissional:**  
-  Atualmente sou **Coordenador de BI** no setor corporativo, com experiência em análises avançadas, construção de dashboards e gestão estratégica de dados.
-
-- 📊 **Interesses:**  
-  - Dados e Finanças: Explorando insights para apoiar decisões no mercado financeiro.  
-  - Marketing Digital: Analisando a eficácia de campanhas em plataformas como Google Ads, Facebook Ads e TikTok.  
-  - Automação de Processos: Criação de scripts para **MetaTrader 5**, incluindo backtesting de estratégias e automação de ordens.  
-
-- 🌍 **Viagem e Cultura:**  
-  Amo viajar e explorar novas culturas. Estou planejando um **tour pela Europa**, passando por cidades icônicas como Londres, Paris, Berlim e Roma, utilizando trens para experimentar o melhor do continente.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/raulprocha/)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:raulrocha.rpr@gmail.com)
 
 ---
 
-## Tecnologias & Ferramentas
+## 🚀 **About Me**
 
-- **Linguagens:** Python, SQL, R, Java, C  
-- **Ferramentas:** Looker Studio, Spark, Amazon Athena, MetaTrader 5, Google Sheets  
-- **Plataformas:** HubSpot, Shopify, Google Ads, Facebook Ads  
-- **Análise de Dados:** Análise RFV, GLM, GLMM, Clustering  
-- **Desenvolvimento Pessoal:** Preparação para TOEFL, foco em leitura de ficção científica para aprimorar o inglês.
+- 🎓 **Education**  
+   **Pursuing an MBA in Data Science & Analytics**  
+  BSc in **Molecular Sciences** with quantitative analysis projects (Python, SQL)
 
----
+- 💼 **Professional Experience**  
+  **BI Coordinator** at Elementar Digital:  
+  - ETL pipeline development for large-scale data processing (AWS Athena, Google BigQuery)  
+  - Strategic dashboard creation (Looker Studio, Google Sheets)  
+  - Data-driven optimization of digital marketing campaigns  
 
-## O Que Estou Trabalhando Agora
-
-- 🔍 Explorando dados em marketing digital com foco em atribuição e conversões.  
-- 🤖 Desenvolvendo scripts avançados de automação para plataformas financeiras.  
-- 📚 Revisando e estudando para certificações como **CNPI Pleno** e **TOEFL**.  
-- 🏗️ Criando consultas SQL otimizadas para relatórios no **Amazon Athena**.
-
----
-
-## Curiosidades
-
-- 📖 Vejo em filmes, músicas e literatura uma forma de expandir meu inglês para objetivos profissionais e acadêmicos.  
-- 💡 Participei do espetáculo teatral **CESARISMO**, refletindo sobre questões humanas e sociais através da arte.  
-- 🌟 Tenho como objetivo trabalhar no mercado financeiro ou marketing digital, seja nos EUA ou na Europa, onde oportunidades para dados são amplas.
+- 🔍 **Technical Interests**  
+  - **Machine Learning:** Predictive modeling, clustering,   
+  - **Financial Data Analysis:** Backtesting trading strategies (MetaTrader 5)  
+  - **Data Engineering:** SQL optimization for reporting  
 
 ---
 
-## Vamos nos Conectar!
+## 🛠️ **Technical Stack**
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/raulprocha/)  
-- ✉️ [E-mail](mailto:raulrocha.rpr@gmail.com)  
+### **Core Tools**
+![Python](https://img.shields.io/badge/Python-Advanced-yellow?logo=python)
+![SQL](https://img.shields.io/badge/SQL-Advanced-blue?logo=postgresql)
+![Looker Studio](https://img.shields.io/badge/Looker_Studio-Dashboards-9cf?logo=google)
+![AWS](https://img.shields.io/badge/AWS-Athena-FF9900?logo=amazonaws)
 
-Se você tem interesse em ciência de dados, automação ou apenas quer trocar ideias, fique à vontade para entrar em contato!
+### **Other Proficiencies**
+Google Sheets | Google Ads | RFM Analysis | Marketing Attribution
 
 ---
-**"Os dados contam histórias que ainda não ouvimos. Vamos descobri-las juntos!"**
+
+## 📂 **Featured Projects**
+
+### 1. Marketing Campaign Analysis
+- **Tools:** Python, SQL, Looker Studio  
+- **Goal:** Optimize ad spend allocation across channels  
+
+### 2. Financial Data Automation
+- **Tools:** MetaTrader 5, Python  
+- **Goal:** Develop scripts for trading strategy backtesting  
+
+### 3. SQL Query Optimization
+- **Tools:** Amazon Athena, Spark  
+- **Goal:** Improve reporting efficiency for business metrics  
+
+---
+
+## 🌍 **Beyond Data**
+- 🎭 Theater enthusiast: Participated in *CESARISMO*, a play exploring social issues  
+- 📚 Improving English through sci-fi literature and TOEFL preparation  
+
+---
+
+## 📫 **Let's Connect!**
+- **LinkedIn:** Let's discuss data & analytics → [Profile](https://www.linkedin.com/in/raulprocha/)  
+- **Email:** Open to collaborations → [raulrocha.rpr@gmail.com](mailto:raulrocha.rpr@gmail.com)  
+
+*"Data is the compass for uncharted decisions."* 🧭
